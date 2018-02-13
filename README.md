@@ -1,6 +1,7 @@
 # Quantum many-body ground-state optimization by VMC of RBM
 Optimizing GS energy of quantum many-body system by VMC with RBM as trial function,
 based on [Carleo & Troyer, Science 355, 602 (2017)](https://arxiv.org/abs/1606.02318).
+Here, we demonstrate the method at the antiferro Heisenberg model and J1-J2 Heisenberg model in one dimension.
 The description of each codes are given as follows.
 ## main.ipynb
 The main execution file of the scheme.
