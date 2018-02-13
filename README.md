@@ -17,7 +17,10 @@ Exact wave function and GS energy of finite-size system.
 **RealSamplingTools.py**:
  Gibbs sampler from the RBM by the alternate sampling method.
  
-**RealWFtools.py**:
+**MetropolisSamplingTools.py**:
+ Sampler from the RBM by the ordinary single-flip algorithm based on Metropolis-Hastings rule.
+ 
+**Real/ComplexWFtools.py**:
  Auxiliary functions to compare the exact and numerically optimized wave function.
  
 **VMC_(model).py**:
